@@ -11,3 +11,5 @@ marge:別branchを統合すること
 checkout:SourceTreeのbranch名をダブルクリックすること
 
 reset:commit後push前であれば、変更を白紙に戻せる
+
+head:現在地のcommit
