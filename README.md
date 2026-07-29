@@ -13,3 +13,5 @@ checkout:SourceTreeのbranch名をダブルクリックすること
 reset:commit後push前であれば、変更を白紙に戻せる
 
 head:現在地のcommit
+
+gitignore:branch内に「.gitignore」ファイルを作り、その中にトラック（historyに載せたくない）させたくないファイル名を書くと、変更してもトラックされない　「*.拡張子」と書くと、その拡張子のすべてのファイルを無視する　「/ディレクトリ名」と書くと、そのディレクトリ内のファイルすべて無視
