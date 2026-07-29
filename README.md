@@ -1,4 +1,5 @@
 # test-win
+https://www.youtube.com/watch?v=kxba5sd-oWc
 
 clone:リモートリポジトリをローカルリポジトリにコピーすること（クローンを作る）
 add:ローカルリポジトリにある、どのファイルの変更履歴を保存するか選択すること
